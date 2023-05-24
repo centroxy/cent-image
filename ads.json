@@ -1,1 +1,13 @@
-{}
+{
+    "Jajati_Test": {
+        "projectName": "Jajati_Test",
+        "description": "StepUp Authentication",
+        "type": "community",
+        "author": "centroxy",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/centroxy/cent-image",
+        "githubUri": "https://github.com/centroxy/cent-image",
+        "license": "MIT",
+        "lastUpdated": "1684923532327"
+    }
+}
